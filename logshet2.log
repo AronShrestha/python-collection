@@ -1,0 +1,14 @@
+2022-01-27 17:21:29,669 user1 INFO This is info of user one
+2022-01-27 17:21:29,669 user2 DEBUG this is debug of user 2
+2022-01-27 17:24:41,892 root INFO this is my first test code fopr log
+2022-01-27 17:24:41,893 user1 INFO This is info of user one
+2022-01-27 17:24:41,894 user2 DEBUG this is debug of user 2
+2022-01-27 17:27:18,714 root INFO this is my first test code fopr log
+2022-01-27 17:27:18,715 user1 INFO This is info of user one
+2022-01-27 17:27:18,717 user2 DEBUG this is debug of user 2
+2022-01-27 17:28:14,310 root INFO this is my first test code fopr log
+2022-01-27 17:28:14,312 user1 INFO This is info of user one
+2022-01-27 17:28:14,314 user2 DEBUG this is debug of user 2
+2022-01-27 17:32:16,842 root INFO this is my first test code fopr log
+2022-01-27 17:32:16,845 user1 INFO This is info of user one
+2022-01-27 17:32:16,846 user2 DEBUG this is debug of user 2

@@ -1,0 +1,17 @@
+2022-01-29 07:57:46,333 -parso.cache -DEBUG -pickle loaded: /home/aron/anaconda3/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+2022-01-29 07:57:46,360 -parso.cache -DEBUG -pickle loaded: /home/aron/anaconda3/lib/python3.9/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2022-01-29 07:57:46,650 -parso.python.diff -DEBUG -diff parser start
+2022-01-29 07:57:46,650 -parso.python.diff -DEBUG -line_lengths old: 3; new: 3
+2022-01-29 07:57:46,650 -parso.python.diff -DEBUG --> code[equal] old[1:2] new[1:2]
+2022-01-29 07:57:46,652 -parso.python.diff -DEBUG -parse_part from 1 to 3 (to 2 in part parser)
+2022-01-29 07:57:46,652 -parso.python.diff -DEBUG --> code[replace] old[3:3] new[3:3]
+2022-01-29 07:57:46,652 -parso.python.diff -DEBUG -diff parser end
+2022-01-29 07:58:43,781 -parso.python.diff -DEBUG -diff parser start
+2022-01-29 07:58:43,781 -parso.python.diff -DEBUG -line_lengths old: 3; new: 3
+2022-01-29 07:58:43,782 -parso.python.diff -DEBUG --> code[equal] old[1:2] new[1:2]
+2022-01-29 07:58:43,784 -parso.python.diff -DEBUG -parse_part from 1 to 3 (to 2 in part parser)
+2022-01-29 07:58:43,784 -parso.python.diff -DEBUG --> code[replace] old[3:3] new[3:3]
+2022-01-29 07:58:43,784 -parso.python.diff -DEBUG -diff parser end
+2022-01-29 07:59:06,605 -root -ERROR -invalid literal for int() with base 10: 'fddf'
+2022-01-29 08:00:46,435 -root -ERROR -invalid literal for int() with base 10: 'juhsnfishfiow'
+2022-01-29 08:02:51,969 -root -ERROR -invalid literal for int() with base 10: 'kjnkljn'

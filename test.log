@@ -1,0 +1,85 @@
+INFO:root:I am starting my program
+INFO:root:I am starting my program
+INFO:root:I am starting my program
+2022-01-27 14:54:18,033 I am starting my program
+2022-01-27 14:54:18,036 This is my first warning of muy program
+2022-01-27 14:54:18,041 Error first
+2022-01-27 14:57:14,469 An error has occured detail below
+2022-01-27 14:57:14,469 name 'a' is not defined
+Traceback (most recent call last):
+  File "/tmp/ipykernel_3721/3871678235.py", line 3, in div
+    lg.info(a,b)
+NameError: name 'a' is not defined
+2022-01-27 14:57:51,223 I am starting my program
+2022-01-27 14:57:51,226 This is my first warning of muy program
+2022-01-27 14:57:51,233 Error first
+2022-01-27 14:57:51,242 An error has occured detail below
+2022-01-27 14:57:51,243 name 'a' is not defined
+Traceback (most recent call last):
+  File "/tmp/ipykernel_3765/3871678235.py", line 3, in div
+    lg.info(a,b)
+NameError: name 'a' is not defined
+2022-01-27 14:58:34,376 I am starting my program
+2022-01-27 14:58:34,916 This is my first warning of muy program
+2022-01-27 14:58:35,369 Error first
+2022-01-27 14:58:36,360 An error has occured detail below
+2022-01-27 14:58:36,360 name 'b' is not defined
+Traceback (most recent call last):
+  File "/tmp/ipykernel_3765/3871678235.py", line 3, in div
+    lg.info(a,b)
+NameError: name 'b' is not defined
+2022-01-27 15:06:57,750 Error first
+2022-01-27 15:07:34,449 Error first
+2022-01-27 15:08:32,608 An error has occured detail below
+2022-01-27 15:08:32,610 division by zero
+Traceback (most recent call last):
+  File "/tmp/ipykernel_3863/3816931078.py", line 4, in div
+    return n1/n2
+ZeroDivisionError: division by zero
+2022-01-27 15:08:34,103 An error has occured detail below
+2022-01-27 15:08:34,105 division by zero
+Traceback (most recent call last):
+  File "/tmp/ipykernel_3863/2569451814.py", line 4, in div2
+    return n1/n2
+ZeroDivisionError: division by zero
+2022-01-27 15:10:24,893 An error has occured detail below
+2022-01-27 15:10:24,893 division by zero
+Traceback (most recent call last):
+  File "/tmp/ipykernel_3863/2569451814.py", line 4, in div2
+    return n1/n2
+ZeroDivisionError: division by zero
+2022-01-27 15:12:26,017 Error first
+2022-01-27 15:12:27,546 An error has occured detail below
+2022-01-27 15:12:27,546 division by zero
+Traceback (most recent call last):
+  File "/tmp/ipykernel_3863/3816931078.py", line 4, in div
+    return n1/n2
+ZeroDivisionError: division by zero
+2022-01-27 15:12:34,624 Error first
+2022-01-27 15:13:13,159 Excpo
+NoneType: None
+2022-01-27 15:13:13,159 Critical log
+2022-01-27 15:14:33,512 Excpo
+NoneType: None
+2022-01-27 15:14:33,512 Critical log
+2022-01-27 15:14:33,513 This is my critical log
+2022-01-27 15:15:01,719 Excpo
+NoneType: None
+2022-01-27 15:15:01,719 Critical log
+2022-01-27 15:15:01,719 TE
+2022-01-27 15:15:32,685 Error first
+2022-01-27 15:15:33,287 Excpo
+NoneType: None
+2022-01-27 15:15:33,287 Critical log
+2022-01-27 15:15:33,288 TE
+2022-01-27 15:15:56,254 Error first
+2022-01-27 15:15:56,600 Excpo
+NoneType: None
+2022-01-27 15:15:56,601 Critical log
+2022-01-27 15:15:56,601 TE
+WARNING:root:This is my first warning of muy program
+ERROR:root:Error first
+ERROR:root:Excpo
+NoneType: None
+CRITICAL:root:Critical log
+ERROR:root:TE
